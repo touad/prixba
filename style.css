@@ -1,0 +1,58 @@
+.titre1 {
+    font-size
+     
+}
+
+.bg-prixba-grey {
+    background-color: #E5E5E5;
+}
+
+.bg-prixba-blue {
+    background-color: #2d4059;
+}
+
+.tps {
+    color: red;
+}
+
+.card1 {
+    box-shadow: -4px -4px 12px 1px rgb(0 0 0 / 20%);
+    
+}
+
+.fa-solid {
+    color: white;
+    
+} 
+
+.card2 {
+    background-color: #2d4059 ;
+}
+
+.quatrieme .container-fluid {
+    background-color: #2d4059 ;
+ 
+
+}
+
+
+
+.cgu .container-fluid {
+    background-color: #2d4059 ;
+    color: white;
+    padding-top: 4px;
+}
+
+.btn-order {
+    height: 50px;
+    width: 50px;
+    background-color: #E5E5E5;
+}
+
+.fa1 {
+    color: rgb(225, 101, 101)
+}
+
+.logo {
+    height: 100px;
+}
